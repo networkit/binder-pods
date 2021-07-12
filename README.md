@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="60%" src="resources/logo_color.png" alt="NetworKit - Lage-scale Network Analysis"><br>
+  <img width="60%" src="docs/logo/logo_color.png" alt="NetworKit - Lage-scale Network Analysis"><br>
+  <a href="https://mybinder.org/v2/gh/networkit/binder-pods/tut-cse-21?urlpath=lab/tree/CSE21-introduction.md"><img src="https://mybinder.org/badge_logo.svg"></a>
 </p>
 
-## 
-This is an accompanying repository for [NetworKit](https://github.com/networkit/networkit), containing binder Dockerfiles of NetworKit-bundles. These bundles include certain configurations (normally older or non-released versions) and Jupyter-notebooks from events, conferences or published research-data. To access a bundle go to any branch except "master" and click on the binder-button in the description.
+This branch contains of all NetworKit-tutorial material used for the tutorial-session at [SIAM Conference on Computational Science and Engineering (CSE21)](https://www.siam.org/conferences/cm/conference/cse21), March 1-5, 2021.
