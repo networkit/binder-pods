@@ -29,7 +29,6 @@ RUN jupyter lab build
 # Create working environment
 # This has to be done as root in order to avoid access denied errors.
 USER root
-RUN git submodule update --init
 RUN mkdir -p ${HOME}/.networkit
 COPY . ${HOME}/.networkit/
 RUN ln -s ${HOME}/.networkit/dataset ${HOME}/dataset && ln -s ${HOME}/.networkit/notebooks ${HOME}/notebooks && ln -s ${HOME}/.networkit/scripts ${HOME}/scripts
