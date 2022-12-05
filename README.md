@@ -1,6 +1,6 @@
 <p align="center">
   <img width="60%" src="resources/logo_color.png" alt="NetworKit - Lage-scale Network Analysis"><br>
+  <a href="https://mybinder.org/v2/gh/networkit/binder-pods/nd22?urlpath=lab/tree/nd2022-beginner.ipynb"><img src="https://mybinder.org/badge_logo.svg"></a>
 </p>
 
-## 
-This is an accompanying repository for [NetworKit](https://github.com/networkit/networkit), containing binder Dockerfiles of NetworKit-bundles. These bundles include certain configurations (normally older or non-released versions) and Jupyter-notebooks from events, conferences or published research-data. To access a bundle go to any branch except "master" and click on the binder-button in the description.
+This branch contains instances and notebooks used during the workshops of NetworKit Day 2022. This online event took place at March 3rd, 2022. More information can be found via <a href="https://networkit.github.io/networkit-day.html">https://networkit.github.io/networkit-day.html</a>.
